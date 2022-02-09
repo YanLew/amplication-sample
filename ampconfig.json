@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "e42ricpl",
+    "id": "ckzdfqfhm138729601s6mnvr2e54",
+    "url": "https://app.amplication.com/ckzdfqfhm138729601s6mnvr2e54",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckzdfqfhm138729601s6mnvr2e54",
+      "authProvider": "Http"
+    }
+  }
+}
